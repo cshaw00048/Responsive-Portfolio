@@ -1,16 +1,18 @@
-
-
-
-header {
-    width: 100%;
-    text-align: center;
-    overflow: hidden;
-    height: 85px;
-}
-
 body {
     margin: auto;
     box-align: center;
+}
+
+#banner {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin: 0 0 30px;
+    text-align: center;
+    overflow: auto;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
 }
 
 footer {
