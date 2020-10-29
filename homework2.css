@@ -1,0 +1,123 @@
+
+
+
+header {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    height: 85px;
+}
+
+body {
+    margin: auto;
+    box-align: center;
+}
+
+footer {
+    margin: 0;
+    width: 100%;
+    font-size: 12px;
+    padding-top: 40px;
+    border-top: 20px;
+    border-top-color: lightseagreen;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+#firstName {
+    position: relative;
+    margin:0;
+    color: white;
+    background-color: lightseagreen;
+    width: 300px;
+    height: 85px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 220%;
+    text-align: center;
+    border-bottom: lightgray;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    margin-bottom: 50px;
+}
+
+#menu {
+    margin: 0;
+    color: gray;
+    background-color: white;
+    width: 890px;
+    height: 85px;
+    line-height: 100px;
+    display: right;
+    justify-content: right;
+    text-align: right;
+    border-bottom: lightgray;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    float: left;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-right: 20px;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+    clear: both;
+    background: gray;
+}
+
+#aboutMe {
+    font-size: 32px;
+    color: lightseagreen;
+    background-color: white;
+    font-weight: bold;
+    width: 925px;
+    height: 85px;
+    line-height: 75px;
+    border-bottom: 10px;
+    border-bottom-color: lightseagreen;
+
+}
+
+#para {
+    width: 960px;
+    height: 675px;
+    background-color: white;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+    border-color: gray;
+    border-width: 2px;
+    padding: 30px;
+    height: 675px;
+    
+}
+
+a:link {
+  color: gray; 
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+
+a:active {
+    color: blue;
+}
+
+body {
+    background-color: lightgray;
+}
