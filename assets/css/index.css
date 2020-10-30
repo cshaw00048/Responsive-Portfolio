@@ -25,6 +25,18 @@ p {
     margin-bottom: 20px;
 }
 
+p:last-child{
+    margin-bottom: 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+}
+
 #banner {
     position: fixed;
     z-index: 99;
