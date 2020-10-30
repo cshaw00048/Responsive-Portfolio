@@ -96,6 +96,12 @@ footer {
     height: 50px;
 }
 
+h2, h3 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eeeeee;
+}
 
 
 #menu {
