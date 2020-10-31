@@ -130,6 +130,9 @@ h2, h3 {
     overflow: auto;
 }
 
+.work:nth-child(even) {
+    margin-right:40px;
+}
 
 
 
