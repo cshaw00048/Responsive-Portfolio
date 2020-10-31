@@ -134,6 +134,12 @@ h2, h3 {
     margin-right:40px;
 }
 
+.work img {
+    width:100%;
+    border: 0 none;
+    opacity: 0.8;
+}
+
 
 
 
