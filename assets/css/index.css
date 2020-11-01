@@ -163,6 +163,13 @@ h2, h3 {
 
 /* Contact Page */
 
+#contact-form ul {
+    margin-bottom: 20px;
+}
+
+#contact-form li {
+    margin-bottom: 10px;
+}
 
 
 
