@@ -192,6 +192,14 @@ textarea{
     height: 200px;
 }
 
+input[type=submit] {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+}
 
 img {
     width: 300px;
