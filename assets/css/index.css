@@ -188,6 +188,10 @@ textarea{
     border: 1px solid #dddddd;
 }
 
+textarea{
+    height: 200px;
+}
+
 
 img {
     width: 300px;
