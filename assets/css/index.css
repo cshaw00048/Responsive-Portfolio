@@ -106,6 +106,15 @@ footer {
     border: 1px solid #ddd;
 }
 
+h3,
+.sidebar h2 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+}
+
+
 
 h2, h3 {
     padding-bottom: 20px;
